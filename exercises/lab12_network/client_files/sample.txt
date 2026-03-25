@@ -1,0 +1,9 @@
+Lab 12 – Network Programming (FTP)
+===================================
+This is a sample file served by the FTP server.
+It can be downloaded by the FTP client using the "download" command.
+
+Contents:
+  - Line 1: sample text
+  - Line 2: more sample text
+  - Line 3: end of file
